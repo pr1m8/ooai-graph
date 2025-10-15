@@ -24,12 +24,24 @@
 - [@code-standards](#code-standards) - Algorithm coding standards and documentation
 - [@integration-patterns](#integration-patterns) - Integration with ooai-core and other packages
 
+### External Documentation
+
+- [`docs/ADVANCED_TESTING.md`](docs/ADVANCED_TESTING.md) - Comprehensive testing strategies
+- [`docs/CODE_STANDARDS.md`](docs/CODE_STANDARDS.md) - Complete code standards guide
+- [`examples/README.md`](examples/README.md) - Examples documentation and usage guide
+- [`scripts/README.md`](scripts/README.md) - Script utilities documentation
+
 ### Working Memory
 
 - [@session-logs](#session-logs) - Development history and decisions
 - [@research-notes](#research-notes) - Algorithm research and implementation notes
 - [@troubleshooting](#troubleshooting) - Common issues and solutions
 - [@performance-benchmarks](#performance-benchmarks) - Algorithm performance data
+
+### Internal Documentation
+
+- [`docs/_internal/GRAPH_DEVELOPMENT_NOTES.md`](docs/_internal/GRAPH_DEVELOPMENT_NOTES.md) - Algorithm design decisions and implementation notes
+- [`docs/_internal/SESSION_LOGS.md`](docs/_internal/SESSION_LOGS.md) - Detailed development session logs and technical decisions
 
 ---
 
