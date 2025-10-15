@@ -26,10 +26,10 @@
 
 ### External Documentation
 
-- [`docs/ADVANCED_TESTING.md`](docs/ADVANCED_TESTING.md) - Comprehensive testing strategies
-- [`docs/CODE_STANDARDS.md`](docs/CODE_STANDARDS.md) - Complete code standards guide
+- [`docs/ADVANCED_TESTING.md`](docs/ADVANCED_TESTING.md) - Testing strategies and patterns
+- [`docs/CODE_STANDARDS.md`](docs/CODE_STANDARDS.md) - Code standards and documentation guide
 - [`examples/README.md`](examples/README.md) - Examples documentation and usage guide
-- [`scripts/README.md`](scripts/README.md) - Script utilities documentation
+- [`scripts/README.md`](scripts/README.md) - Development scripts documentation
 
 ### Working Memory
 
